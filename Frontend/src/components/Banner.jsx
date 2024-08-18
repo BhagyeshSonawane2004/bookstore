@@ -9,7 +9,7 @@ function Banner() {
        <div className='space-y-12'>
        <h1 className='text-4xl font-bold '>Hello, Welcome here to learn something <span className='text-pink-500'>new everyday..!!</span></h1>
         <p className='text-xl'>
-            lorem loremlorem loremlorem  lorem lorem lorem lorem lorem loremlorem lorem lorem lorem loremloremloremlorem loremlorem lorem loremloremloremloremloremloremloremloremloremloremloremloremlorem
+        Discover a world of books at your fingertips. Browse our extensive collection, explore detailed course offerings, and find your next great read with ease. Enjoy a seamless shopping experience tailored just for you!
         </p>
         <label className="input input-bordered flex items-center gap-2">
   <svg
@@ -26,7 +26,7 @@ function Banner() {
 </label>
 
        </div>
-       <button className="btn mt-6 btn-secondary">Secondary</button>
+       <button className="btn mt-6 btn-secondary">Get Started..</button>
        
         </div>
         <div className='order-1 w-full md:w-1/2'>
